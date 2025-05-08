@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Html,Css,Bootstrap,Javascript,Php,Reactjs,MySQL,Jquery**
 
-- 📫 How to reach me **smartysanjay3001@gmail.com**
+- 📫 How to reach me **sanjaysmart3001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
