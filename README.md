@@ -11,7 +11,7 @@
 ### Hi there 👋, I'm Sanjaykumar
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smartysanjy3001&label=Profile%20views&color=0e75b6&style=flat" alt="smartysanjy3001" /> </p>
 
-## I'm a  web Developer @Nscript web studios
+## I'm a  web Developer @Nscript Web Studios 
 - 🔭 I’m currently working on Bondvue and Jusfood
 - 🌱 I’m currently learning Python
 - 📫 How to reach me **sanjaysmart3001@gmail.com**
