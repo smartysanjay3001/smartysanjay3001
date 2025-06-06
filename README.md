@@ -1,20 +1,77 @@
-<h1 align="center">Hi 👋, I'm sanjaykumar</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<!-- Links -->
+[website]: http://example.net/
+[facebook]: https://www.facebook.com/
+[twitter]: https://twitter.com/
+[instagram]: https://www.instagram.com/
+[youtube]: https://www.youtube.com/
+[twitch]: https://www.twitch.tv/
+[linkedin]: https://www.linkedin.com/
+<!-- End links -->
 
+### Hi there 👋, I'm Sanjaykumar
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smartysanjy3001&label=Profile%20views&color=0e75b6&style=flat" alt="smartysanjy3001" /> </p>
 
-- 🌱 I’m currently learning **Python**
-
-- 👨‍💻 All of my projects are available at [https://sanjaykumar-99982d.netlify.app/](https://sanjaykumar-99982d.netlify.app/)
-
+## I'm a  web Developer @Nscript web studios
+- 🔭 I’m currently working on Bondvue and Jusfood
+- 🌱 I’m currently learning Python
+- 📫 How to reach me **sanjaysmart3001@gmail.com**
 - 💬 Ask me about **PHP,Python,Javascript,Mysql,ReactJs,Jquery,HTML,CSS,Bootstrap,and Javascript**
 
-- 📫 How to reach me **sanjaysmart3001@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## Contact
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 
+
+[<a href="https://www.linkedin.com/in/sanjay-kumar-a7a162176/" target="_blank" class="card-link"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" align="left" height="22px"></a>][linkedin]
+[<a href="https://github.com/smartysanjay3001" target="_blank" class="card-link"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="YouTube" align="left" height="22px"></a>][youtube]
+[<a href="mailto:sanjaysmart3001@gmail.com" class="card-link"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Twitch" align="left" height="22px" ></a>][twitch]
+
+<br />
+
+## Languages and Tools
+
+### Languages
+<img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" alt="PHP" align="left" height="30px" style="padding: 5px;">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" align="left" height="30px" style="padding: 5px;">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL" align="left" height="30px" style="padding: 5px;">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" align="left" height="30px" style="padding: 5px;">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" align="left" height="30px" style="padding: 5px;">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" align="left" height="30px" style="padding: 5px;">
+
+
+
+<br />
+
+### Frameworks / Libraries
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" align="left" height="30px" style="padding: 5px;">
+
+<img src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" alt="Laravel" align="left" height="30px" style="padding: 5px;">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" alt="jQuery" align="left" height="30px" style="padding: 5px;">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" align="left" height="30px" style="padding: 5px;">
+<br />
+
+### Tools
+
+<img src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" alt="Visual Studio" align="left" height="30px" style="padding: 5px;">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Code" align="left" height="30px" style="padding: 5px;">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" align="left" height="30px" style="padding: 5px;">
+<img src="https://raw.githubusercontent.com/github/explore/89bdd9644f44d1b12180fd512b95574fe4c54617/topics/github-api/github-api.png" alt="GitHub" align="left" height="30px" style="padding: 5px;">
+
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" alt="Unity" align="left" height="30px" style="padding: 5px;">
+<img src="https://www.postman.com/assets/logos/postman-logo-stacked.svg" alt="Postman" align="left" height="30px" style="padding: 5px;">
+
+
+
+<br />
+
+### Platforms
+
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" align="left" height="30px" style="padding: 5px;">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows" align="left" height="30px" style="padding: 5px;">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" alt="MacOS" align="left" height="30px" style="padding: 5px;">
+
+<br />
+
+## Stats
+
+[![My github stats](https://github-readme-stats.vercel.app/api?username=smartysanjay3001)](https://github.com/anuraghazra/github-readme-stats)
