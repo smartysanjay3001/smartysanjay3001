@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sanjaykumar-99982d.netlify.app/](https://sanjaykumar-99982d.netlify.app/)
 
-- 💬 Ask me about **Html,Css,Bootstrap,Javascript,Php,Reactjs,MySQL,Jquery**
+- 💬 Ask me about **PHP,Python,Javascript,Mysql,ReactJs,Jquery,HTML,CSS,Bootstrap,and Javascript**
 
 - 📫 How to reach me **sanjaysmart3001@gmail.com**
 
