@@ -12,10 +12,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smartysanjy3001&label=Profile%20views&color=0e75b6&style=flat" alt="smartysanjy3001" /> </p>
 
 ## I'm a  web Developer @Nscript Web Studios 
-- 🔭 I’m currently working on Bondvue and Jusfood
-- 🌱 I’m currently learning Python
-- 📫 How to reach me **sanjaysmart3001@gmail.com**
-- 💬 Ask me about **PHP,Python,Javascript,Mysql,ReactJs,Jquery,HTML,CSS,Bootstrap,and Javascript**
+- 🔭 I’m currently working on **Bondvue** and **Jusfood**  
+-🌱 I’m currently learning **Python**  
+-💬 Ask me about: `PHP`, `Python`, `MySQL`, `ReactJS`, `jQuery`, `HTML`, `CSS`, `Bootstrap`, and `JavaScript`  
+-📫 How to reach me: [sanjaysmart3001@gmail.com](mailto:sanjaysmart3001@gmail.com)  
+-🌐 Portfolio: [sanjaykumar-99982d.netlify.app](https://sanjaykumar-99982d.netlify.app)
 
 
 ## Contact
