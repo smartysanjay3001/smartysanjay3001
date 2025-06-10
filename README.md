@@ -16,7 +16,7 @@
 -🌱 I’m currently learning **Python**  
 -💬 Ask me about: `PHP`, `Python`, `MySQL`, `ReactJS`, `jQuery`, `HTML`, `CSS`, `Bootstrap`, and `JavaScript`  
 -📫 How to reach me: [sanjaysmart3001@gmail.com](mailto:sanjaysmart3001@gmail.com)  
--🌐 Portfolio: [sanjaykumar-99982d.netlify.app](https://sanjaykumar-99982d.netlify.app)
+-🌐 Portfolio: [smartysanjay3001.github.io](https://smartysanjay3001.github.io/portfolio/)
 
 
 ## Contact
