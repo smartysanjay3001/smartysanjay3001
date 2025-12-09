@@ -11,7 +11,7 @@
 ### Hi there 👋, I'm Sanjaykumar
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smartysanjy3001&label=Profile%20views&color=0e75b6&style=flat" alt="smartysanjy3001" /> </p>
 
-## I'm a  web Developer @Nscript Web Studios 
+## Software Developer | Python • FastAPI • PHP • React
 - 🔭 I’m currently working on **Bondvue** and **Jusfood**  
 -🌱 I’m currently learning **FastAPI**  
 -💬 Ask me about: `Python`, `PHP`,  `MySQL`, `ReactJS`, `jQuery`, `HTML`, `CSS`, `Bootstrap`, and `JavaScript`  
